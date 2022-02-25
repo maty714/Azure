@@ -1,0 +1,12 @@
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\CodeFirstApplication.exe.config
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\CodeFirstApplication.exe
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\CodeFirstApplication.pdb
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\EntityFramework.dll
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\EntityFramework.xml
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\obj\Debug\CodeFirstApplication.csproj.AssemblyReference.cache
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\obj\Debug\CodeFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\obj\Debug\CodeFirstApplication.csproj.CopyComplete
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\obj\Debug\CodeFirstApplication.exe
+C:\Users\Matt\OneDrive\Documents\GitHub\Azure\CodeFirst\CodeFirstApplication\CodeFirstApplication\obj\Debug\CodeFirstApplication.pdb

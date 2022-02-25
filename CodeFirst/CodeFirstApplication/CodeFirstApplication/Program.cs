@@ -16,7 +16,9 @@ namespace CodeFirstApplication
                 Console.Write("Enter a name for a new blog:");
                 var name = Console.ReadLine();
 
-                var blog = new Blog { Name = name, BlogId = 4 };
+                var blog = new Blog { Name = name,  };
+                var post = new Post { Title = "1st Blog" };
+                db.Posts.Add(post); 
                 db.Blogs.Add(blog);
                 db.SaveChanges();
 
